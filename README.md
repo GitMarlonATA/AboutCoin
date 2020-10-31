@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # platzi-exchange
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# AboutCoin
+>>>>>>> 5c881a3164ad8fcd05d5ebabd6184a7698f918ef
